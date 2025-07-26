@@ -52,7 +52,7 @@ Applies to each **pair** of `R01` items.
 
 ```bash
 git clone https://github.com/arvinddagar/acme-basket.git
-cd acme_basket
+cd acme-basket
 ```
 
 2. **Install dependencies:**
