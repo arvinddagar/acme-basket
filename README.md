@@ -51,7 +51,7 @@ Applies to each **pair** of `R01` items.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/arvinddagar/acme_basket.git
+git clone https://github.com/arvinddagar/acme-basket.git
 cd acme_basket
 ```
 
